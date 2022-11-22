@@ -11,7 +11,7 @@ _TON Connect_ enables communication between _wallets_ and _apps_ in the TON ecos
 Reference implementations:
 
 * [Bridge server in Go](https://github.com/ton-connect/bridge): reference implementation of the bridge server.
-* [Demo app](https://github.com/ton-connect/dapp-demo): sample app showing how to integrate the JS SDK.
+* [Demo app](https://github.com/ton-connect/demo-dapp): sample app showing how to integrate the JS SDK.
 
 
 ## Why TON Connect?
