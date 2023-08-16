@@ -4,15 +4,9 @@ _TON Connect_ enables communication between _wallets_ and _apps_ in the TON ecos
 
 ## Table of contents
 
-* [JS SDK](https://github.com/ton-connect/sdk)
-* [Documentation and specifications](https://github.com/ton-connect/docs)
-* [List of supported wallets](https://github.com/ton-connect/wallets-list)
-
-Reference implementations:
-
-* [Bridge server in Go](https://github.com/ton-connect/bridge): reference implementation of the bridge server.
-* [Demo app](https://github.com/ton-connect/demo-dapp): sample app showing how to integrate the JS SDK.
-
+* [TON Connect Documentation](https://docs.ton.org/develop/dapps/ton-connect/overview)
+* [Protocol specifications](https://docs.ton.org/develop/dapps/ton-connect/protocol/)
+* [Integrate a wallet](https://docs.ton.org/develop/dapps/ton-connect/wallet)
 
 ## Why TON Connect?
 
@@ -37,7 +31,6 @@ TON Connect is a bridge that crosses this conceptual gap.
    * SDK takes care of re-connection, supports switching between multiple accounts and ships with UI controls.
    * SDK also transparently works with a JS bridge for embedded dapps and browser extensions.
 5. Each wallet maintains their own bridge server and are free to choose how to communicate with it.
-
 
 
 
