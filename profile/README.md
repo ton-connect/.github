@@ -4,7 +4,7 @@ _TON Connect_ enables communication between _wallets_ and _apps_ in the TON ecos
 
 ## Table of contents
 
-* [TON Connect Overview](https://docs.ton.org/develop/dapps/ton-connect/overview)
+* [TON Connect Documentation](https://docs.ton.org/develop/dapps/ton-connect/overview)
 * [Protocol specifications](https://docs.ton.org/develop/dapps/ton-connect/protocol/)
 * [Integrate a wallet](https://docs.ton.org/develop/dapps/ton-connect/wallet)
 
