@@ -38,6 +38,6 @@ TON Connect is a bridge that crosses this conceptual gap.
    * SDK also transparently works with a JS bridge for embedded dapps and browser extensions.
 5. Each wallet maintains their own bridge server and are free to choose how to communicate with it.
 
+## Authors and maintainers
 
-
-
+TON Connect protocol and SDK was originally designed by [Tonkeeper team](https://tonkeeper.com). It is currently maintained by TON Foundation.
